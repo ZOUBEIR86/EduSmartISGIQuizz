@@ -1,0 +1,5 @@
+{
+  "name": "ISGI Quiz PWA",
+  "description": "Une application de quiz moderne et responsive pour les étudiants de l'ISGI, installable comme une PWA.",
+  "requestFramePermissions": []
+}
